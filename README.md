@@ -1,6 +1,6 @@
 # Personal-Agent
 
-Personal-Agent is a personal knowledge agent for quickly asking questions about your own information. Each user can provide their documents and data, then ask questions in natural language to find relevant details and get answers grounded in that information. The goal is to make personal knowledge easy to search and useful through conversation.
+Personal-Agent is a local only personal knowledge agent for quickly asking questions about your own information. Each user can provide their documents and data, then ask questions in natural language to find relevant details and get answers grounded in that information. The goal is to make personal knowledge easy to search and useful through conversation.
 
 ## Technology
 
